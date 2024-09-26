@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Community Board*
 
-Submitted by: **Your Name Here**
+Submitted by: **Subham Bhattacharya**
 
 This web app: **insert description**
 
